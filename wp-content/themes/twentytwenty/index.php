@@ -110,6 +110,9 @@ get_header();
 	<?php get_template_part( 'template-parts/pagination' ); ?>
 
 </main><!-- #site-content -->
+<script type="text/javascript">
+	
+</script>
 
 <?php get_template_part( 'template-parts/footer-menus-widgets' ); ?>
 

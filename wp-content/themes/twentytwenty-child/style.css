@@ -10,10 +10,17 @@ Version: 1.1.1577976524
 Updated: 2020-01-02 14:48:44
 
 */
+@font-face {
+  font-family: 'MyWebFont';
+  src:  url('Gobold_Regular.otf') format('otf')
+}
 
 #site-header{
 	display: none ;
 }
 #site-footer{
 	display: none;
+}
+.entry-header{
+	display: none !important;
 }
