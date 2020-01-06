@@ -111,7 +111,7 @@ get_header();
 
 </main><!-- #site-content -->
 <script type="text/javascript">
-	
+	document.getElementById('shiftnav-toggle-main-button').innerHTML = 'fgj';
 </script>
 
 <?php get_template_part( 'template-parts/footer-menus-widgets' ); ?>
